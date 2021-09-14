@@ -1,0 +1,27 @@
+id: test_dummy_model
+emf_type: model
+emf_public: true
+emf_automatized: true
+emf_reproducible: false
+emf_draft: false
+nodes: ''
+authors:
+- vgranda
+- emf
+authors_aff:
+- CREAF
+- CREAF
+resource_link: tech_docs/test_dummy_tech_doc
+thematic: dummy
+tags:
+- model_topic
+- dummy
+- dummydummy
+requirements: ''
+description: This is a dummy model metadata to test the automatized page web building
+title: Test dummy model
+date: '2021-09-14'
+date_lastmod: '2021-09-14'
+categories: model
+external_link: https://github.com/emf-creaf/medfate
+
