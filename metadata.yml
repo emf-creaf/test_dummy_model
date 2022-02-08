@@ -8,9 +8,6 @@ nodes: ''
 authors:
 - vgranda
 - emf
-authors_aff:
-- CREAF
-- CREAF
 resource_link: tech_docs/test_dummy_tech_doc
 thematic: dummy
 tags:
@@ -18,10 +15,12 @@ tags:
 - dummy
 - dummydummy
 requirements: ''
+links:
+  url_pdf: 'creaf.cat'
 description: This is a dummy model metadata to test the automatized page web building
 title: Test dummy model
 date: '2021-09-14'
 date_lastmod: '2021-09-14'
 categories: model
-external_link: https://github.com/emf-creaf/medfate
+model_repository: https://github.com/emf-creaf/medfate
 
